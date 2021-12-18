@@ -1,0 +1,158 @@
+
+* {
+	font-family: Comic Sans MS;
+	cursor: default;
+	user-select: none;
+}
+
+.home-page {
+	background-image: url(/img/bc-question.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: center;
+}
+.qs-page {
+	display: none;
+}
+.section {
+	background-color: #deeff0;
+	border: 15px #198bc0 solid;
+	margin-top: 2vh;
+	height: 96vh;
+	border-radius: 10px;
+}
+.line {
+	margin: 20px;
+	display: inline-block;
+	background-color: #1959bf;
+	height: 10px;
+	width: 30%;
+}
+.line:nth-child(2) {
+	background-color: #19a9bf;
+}
+.box-qs {
+	font-size: 8.3vh;
+	text-align: center;
+	line-height: 1.2;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	height: 36%;
+	background-color: #e2eff0;
+}
+.box-options {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 36px;
+	height: 47%;
+	width: 94%;
+	background-color: #198bc0;
+}
+.option-1 {
+	line-height: 1.1;
+	height: 50%;
+	width: 50%;
+	display: inline;
+	float: left;
+	font-size: 6vh;
+	padding-right: 25px;
+	padding-top: 8px;
+	padding-left: 10px;
+	text-align: center;
+}
+.option-2 {
+	line-height: 1.1;
+	height: 50%;
+	width: 50%;
+	display: inline;
+	float: right;
+	font-size: 6vh;
+	padding-left: 15px;
+	padding-top: 6px;
+	text-align: center;
+}
+.option-3 {
+	line-height: 1.1;
+	height: 50%;
+	width: 50%;
+	display: inline;
+	float: left;
+	padding-right: 25px;
+	padding-top: 8px;
+	font-size: 6vh;
+	text-align: center;
+	padding-left: 6px;
+}
+.option-4 {
+	line-height: 1.1;
+	height: 50%;
+	width: 50%;
+	display: inline;
+	padding-left: 15px;
+	padding-top: 8px;
+	float: right;
+	font-size: 6vh;
+	text-align: center;
+}
+.category-scores {
+	color: rgb(143, 143, 143);
+	margin-top: 2px;
+	text-align: center;
+	font-size: 2vh;
+	text-transform: lowercase;	
+}
+table {
+	background: none;
+	padding: 1vh 0;
+	border-collapse: separate;
+	border-spacing: 8px;
+}
+td {
+	text-align: center;
+	border: 2px solid black;
+	font-size: 5.2vh;
+	line-height: 1.2;
+	padding: 2px 17px;
+}
+td:nth-child(1) {
+	background-color: rgb(236, 85, 156);
+}
+td:nth-child(2) {
+	padding: 2px 27px;
+	background-color: rgb(224, 205, 205);
+}
+td:nth-child(3) {
+	background-color: rgb(136, 201, 238);
+}
+td:nth-child(4) {
+	background-color: rgb(141, 224, 141);
+}
+td:nth-child(5) {
+	background-color: rgb(99, 226, 209);
+	
+}
+td:nth-child(6) {
+	background-color: rgb(231, 216, 130);
+}
+td:nth-child(7) {
+	background-color: rgb(202, 127, 231);
+	padding: 2px 13px;
+}
+
+.showAnimation {
+	opacity: 1;
+	animation: fadeIn 1s;
+	animation-delay: 0s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes fadeIn {
+	from {
+			opacity: 1;
+	}
+	to {
+			opacity: 0;
+	}
+}

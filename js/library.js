@@ -1,26 +1,26 @@
 let library = {
       Музыка: {
             100: {
-                  question: "",
-                  variants: [
-                        "",
-                        "",
-                        "",
-                        "",
+                  question: "sdfsdfsdf",
+                  options: [
+                        "ЫЫЫЫЫЫЫ",
+                        "asdasda*",
+                        "lkjhk",
+                        "bnvbnm",
                   ]
             },
             200: {
                   question: "",
-                  variants: [
-                        "",
-                        "",
-                        "",
-                        "",
+                  options: [
+                        "sdfsdf",
+                        "sdfsdf",
+                        "sdfsdf*",
+                        "sss",
                   ]
             },
             300: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -29,7 +29,7 @@ let library = {
             },
             400: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -38,7 +38,7 @@ let library = {
             },
             500: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -47,7 +47,7 @@ let library = {
             },
             600: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -56,7 +56,7 @@ let library = {
             },
             700: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -67,7 +67,7 @@ let library = {
       Ультра: {
             100: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -76,7 +76,7 @@ let library = {
             },
             200: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -85,7 +85,7 @@ let library = {
             },
             300: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -94,7 +94,7 @@ let library = {
             },
             400: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -103,7 +103,7 @@ let library = {
             },
             500: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -112,7 +112,7 @@ let library = {
             },
             600: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -121,7 +121,7 @@ let library = {
             },
             700: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -132,7 +132,7 @@ let library = {
       Разное: {
             100: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -141,7 +141,7 @@ let library = {
             },
             200: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -150,7 +150,7 @@ let library = {
             },
             300: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -159,7 +159,7 @@ let library = {
             },
             400: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -168,7 +168,7 @@ let library = {
             },
             500: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -177,7 +177,7 @@ let library = {
             },
             600: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -186,7 +186,7 @@ let library = {
             },
             700: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -197,7 +197,7 @@ let library = {
       Организация: {
             100: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -206,7 +206,7 @@ let library = {
             },
             200: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -215,7 +215,7 @@ let library = {
             },
             300: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -224,7 +224,7 @@ let library = {
             },
             400: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -233,7 +233,7 @@ let library = {
             },
             500: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -242,7 +242,7 @@ let library = {
             },
             600: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -251,7 +251,7 @@ let library = {
             },
             700: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -262,7 +262,7 @@ let library = {
       Кино: {
             100: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -271,7 +271,7 @@ let library = {
             },
             200: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -280,7 +280,7 @@ let library = {
             },
             300: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -289,7 +289,7 @@ let library = {
             },
             400: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -298,7 +298,7 @@ let library = {
             },
             500: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -307,7 +307,7 @@ let library = {
             },
             600: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -316,7 +316,7 @@ let library = {
             },
             700: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -327,7 +327,7 @@ let library = {
       Люди: {
             100: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -336,7 +336,7 @@ let library = {
             },
             200: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -345,7 +345,7 @@ let library = {
             },
             300: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -354,7 +354,7 @@ let library = {
             },
             400: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -363,7 +363,7 @@ let library = {
             },
             500: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -372,7 +372,7 @@ let library = {
             },
             600: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -381,7 +381,7 @@ let library = {
             },
             700: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -392,7 +392,7 @@ let library = {
       Числа: {
             100: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -401,7 +401,7 @@ let library = {
             },
             200: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -410,7 +410,7 @@ let library = {
             },
             300: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -419,7 +419,7 @@ let library = {
             },
             400: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -428,7 +428,7 @@ let library = {
             },
             500: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -437,7 +437,7 @@ let library = {
             },
             600: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
@@ -446,7 +446,7 @@ let library = {
             },
             700: {
                   question: "",
-                  variants: [
+                  options: [
                         "",
                         "",
                         "",
